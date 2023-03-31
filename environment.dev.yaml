@@ -1,0 +1,9 @@
+name: ai.fun
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - requests 
+  - openai 
+  - flask 
+  - flask-cors
